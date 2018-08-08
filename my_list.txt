@@ -5,6 +5,6 @@
 ||indiehackers.com
 ||backtracks.fm
 ||bktrks.com
-||res.infoq.com
+||infoq.com
 
 !---------------------EOF-----------------------
