@@ -1,5 +1,4 @@
-!---------------------BEGIN-----------------------
-!------- feiyang21687 ----------
+!-------------- BEGIN feiyang21687 -------------
 
 ||magicleap.com
 ||indiehackers.com
@@ -7,4 +6,6 @@
 ||bktrks.com
 ||infoq.com
 ||xe.com
-!---------------------EOF-----------------------
+||arxiv.org
+||reddit.com
+!-------------- EOF feiyang21687 ---------------
