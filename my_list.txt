@@ -9,4 +9,6 @@
 ||arxiv.org
 ||reddit.com
 ||redditmedia.com
+||doubleclick.net
+||googletagmanager.com
 !-------------- EOF feiyang21687 ---------------
