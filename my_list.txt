@@ -13,4 +13,5 @@
 ||googletagmanager.com
 ||imrworldwide.com
 ||googlesyndication.com
+||jotform.com
 !-------------- EOF feiyang21687 ---------------
